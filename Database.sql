@@ -7,6 +7,6 @@ CREATE TABLE temperature_readings (
     temperature DOUBLE NOT NULL,
     reading_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
- select*from temperature_readings;
- SHOW tables;
+select*from temperature_readings;
+SHOW tables;
  
