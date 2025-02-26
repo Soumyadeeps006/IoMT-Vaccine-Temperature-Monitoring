@@ -32,7 +32,7 @@ This project leverages the **Internet of Medical Things (IoMT)** to ensure optim
 ### Steps
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Soumyadeeps006/Vaccine-temperature-management-IoMT.git
+   git clone https://github.com/Soumyadeeps006/IoMT-Vaccine-Temperature-Monitoring.git
    cd Vaccine-temperature-management-IoMT
    ```
 2. **Install Dependencies**
@@ -67,4 +67,4 @@ This project is licensed under the GNU General Public License - see the [LICENSE
 ## Contact
 For any inquiries or support, reach out to:
 - **Email:** soumyadeeps006@gmail.com
-- **GitHub Issues:** Open an issue [here](https://github.com/Soumyadeeps006/Vaccine-temperature-management-IoMT/issues)
+- **GitHub Issues:** Open an issue [here](https://github.com/Soumyadeeps006/IoMT-Vaccine-Temperature-Monitoring/issues)
